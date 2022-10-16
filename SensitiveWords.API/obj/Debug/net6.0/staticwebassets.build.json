@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mjBdrkdvqfNqK6j9KSMnndBrnSZS93WSqjNMT3nNwPY=",
+  "Source": "SensitiveWords.API",
+  "BasePath": "_content/SensitiveWords.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
